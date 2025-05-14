@@ -18,7 +18,7 @@ title: Yamon # the main title
 
 tagline: 计算机相关技术的博客 # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description:  # used by seo meta and the atom feed
   
 
 # Fill in the protocol & hostname for your site.
@@ -38,8 +38,8 @@ social:
   email: chenym2019@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # https://twitter.com/username # change to your Twitter homepage
-    # https://github.com/username # change to your GitHub homepage
+    https://twitter.com/username # change to your Twitter homepage
+    https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
