@@ -7,7 +7,7 @@ tags: [PostgreSQL]
 pin: true
 math: true
 mermaid: true
-typora-root-url: ../../yamoncode.github.io
+typora-root-url: ../../yamoncode.github.io/
 ---
 
 # unnest函数
